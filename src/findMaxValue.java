@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class findMaxValue {
     public static void main(String[] args) {
-        int[] money = new int[5];
+        int[] money = new int[20];
 
         Scanner sc = new Scanner(System.in);
 
